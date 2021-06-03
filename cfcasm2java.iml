@@ -7,9 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="SADK-3.7.0.1" level="project" />
     <orderEntry type="library" name="bcprov-jdk15on-1.50" level="project" />
-    <orderEntry type="library" name="cryptokit.jni-1.0" level="project" />
-    <orderEntry type="library" name="logback-cfca-jdk1.6-4.2.1.0" level="project" />
   </component>
 </module>
